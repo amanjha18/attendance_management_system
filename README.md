@@ -19,7 +19,7 @@ A simple Attendance Management System built with Flask and MySQL.
 ### Installing Dependencies
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/attendance-management-flask.git
+    git clone https://github.com/amanjha18/attendance-management-flask.git
     cd attendance-management-flask
     ```
 
@@ -32,7 +32,7 @@ A simple Attendance Management System built with Flask and MySQL.
 
 4. Run the app:
     ```bash
-    python app.py
+    python run.py
     ```
 
 ### API Endpoints
